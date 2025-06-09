@@ -12,7 +12,7 @@
 
 ✅ The project was deployed as an interactive interface using Streamlit:
 ## 🌐 Live Demo
-🔗 [sentiment-analysis-ai-project.streamlit.app](https://sentiment-analysis-ai-project.streamlit.app)
+🔗 [sentiment-analysis-ai-project.streamlit.app](https://sentiment-analysis-ai-app.streamlit.app)
 
 ---
 
